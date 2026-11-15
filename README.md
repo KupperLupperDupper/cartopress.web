@@ -4,7 +4,7 @@ Type any place, frame it, and download it as a high-resolution map print —
 satellite, neon, line drawing, or eight other looks. Everything runs in the
 browser: no backend, no build step, no API keys.
 
-**Live: <https://kupperlupperdupper.github.io/cartopress/>**
+**Live: <https://kupperlupperdupper.github.io/cartopress.web/>**
 
 ![Cartopress: a Leaflet preview with the export frame overlaid, and the control
 panel showing the style picker, label switch and resolution presets](docs/screenshot.png)
